@@ -1,5 +1,14 @@
 // Increasing Traingle Pattern
 // "*" in increasing traingle form
+/*
+
+*  
+* *  
+* * * 
+* * * *
+* * * * *
+
+*/
 
 import java.util.*;
 public class StarPattern1
