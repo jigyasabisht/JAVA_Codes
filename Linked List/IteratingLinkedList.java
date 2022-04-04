@@ -1,5 +1,5 @@
 import java.util.*;
-public class Main 
+public class IteratingLinkedList 
 {
     public static void main(String args[])
 	{
